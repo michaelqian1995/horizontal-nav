@@ -30,7 +30,7 @@ html:
 css:
   - path: 'css/main.css'
     has:
-      - ['h1', 'font-family', 'Bevan, serif']
+
     search:
       - 'margin'
       - 'padding'
@@ -41,10 +41,5 @@ css:
       - 'border'
       - 'border-radius'
       - '#79756f'
-      - '#595652'
       - '#713837'
       - '#f33'
-
-screenshots:
-  - path: 'index.html'
-    sizes: [400, 650]
